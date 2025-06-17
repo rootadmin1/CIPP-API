@@ -27,4 +27,4 @@ jobs:
           app-name: 'cipp7cwjh-usertasks'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1603710099FA4CBCB65B5663C5141C83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FDBCD3617E5C44BAA7842B18C3BDA229 }}
